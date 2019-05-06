@@ -39,37 +39,17 @@
     "vm": "./jspm_packages/npm/@jspm/core@1.0.4/nodelibs/vm.js",
     "worker_threads": "./jspm_packages/npm/@jspm/core@1.0.4/nodelibs/worker_threads.js",
     "zlib": "./jspm_packages/npm/@jspm/core@1.0.4/nodelibs/zlib.js",
-    "object-assign":"./jspm_packages/npm/react@16.8.6/object-assign@4.1.1/"
-  },
-  "scopes": {
-    "jspm_packages/npm/loose-envify@1.4.0/": {
-      "js-tokens": "../js-tokens@4.0.0/index.js",
-      "js-tokens/": "../js-tokens@4.0.0/"
-    },
-    "jspm_packages/npm/prop-types@15.7.2/": {
-      "loose-envify": "../loose-envify@1.4.0/index.js",
-      "loose-envify/": "../loose-envify@1.4.0/",
-      "object-assign": "../object-assign@4.1.1/index.js",
-      "object-assign/": "../object-assign@4.1.1/",
-      "react-is": "../react-is@16.8.6/index.js",
-      "react-is/": "../react-is@16.8.6/"
-    },
-    "jspm_packages/npm/react@16.8.6/": {
-      "loose-envify": "../loose-envify@1.4.0/index.js",
-      "loose-envify/": "../loose-envify@1.4.0/",
-      "object-assign": "../object-assign@4.1.1/index.js",
-      "object-assign/": "../object-assign@4.1.1/",
-      "prop-types": "../prop-types@15.7.2/index.js",
-      "prop-types/": "../prop-types@15.7.2/",
-      "scheduler": "../scheduler@0.13.6/index.js",
-      "scheduler/": "../scheduler@0.13.6/"
-    },
-    "jspm_packages/npm/scheduler@0.13.6/": {
-      "loose-envify": "../loose-envify@1.4.0/index.js",
-      "loose-envify/": "../loose-envify@1.4.0/",
-      "object-assign": "../object-assign@4.1.1/index.js",
-      "object-assign/": "../object-assign@4.1.1/"
-    }
+    "js-tokens": "./jspm_packages/npm/js-tokens@4.0.0/index.js",
+    "js-tokens/": "./jspm_packages/npm/js-tokens@4.0.0/",
+    "loose-envify": "./jspm_packages/npm/loose-envify@1.4.0/index.js",
+    "loose-envify/": "./jspm_packages/npm/loose-envify@1.4.0/",
+    "object-assign": "./jspm_packages/npm/object-assign@4.1.1/index.js",
+    "object-assign/": "./jspm_packages/npm/object-assign@4.1.1/",
+    "react-is": "./jspm_packages/npm/react-is@16.8.6/index.js",
+    "react-is/": "./jspm_packages/npm/react-is@16.8.6/",
+    "prop-types": "./jspm_packages/npm/prop-types@15.7.2/index.js",
+    "prop-types/": "./jspm_packages/npm/prop-types@15.7.2/",
+    "scheduler": "./jspm_packages/npm/scheduler@0.13.6/index.js",
+    "scheduler/": "./jspm_packages/npm/scheduler@0.13.6/"
   }
-}
-
+}
