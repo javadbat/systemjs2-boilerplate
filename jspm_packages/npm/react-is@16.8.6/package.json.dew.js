@@ -1,0 +1,4 @@
+export function dew () {
+  return exports;
+}
+var exports = {"name":"react-is","version":"16.8.6","description":"Brand checking of React Elements.","main":"index.js","repository":{"type":"git","url":"https://github.com/facebook/react.git","directory":"packages/react-is"},"keywords":["react"],"license":"MIT","bugs":{"url":"https://github.com/facebook/react/issues"},"homepage":"https://reactjs.org/","files":["LICENSE","README.md","build-info.json","index.js","cjs/","umd/"],"peerDependencies":{"@jspm/core":"npm:jspm/core@^1.0.0"}};
