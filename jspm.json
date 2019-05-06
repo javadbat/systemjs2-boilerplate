@@ -1,0 +1,50 @@
+{
+  "resolve": {
+    "@jspm/core": "npm:@jspm/core@1.0.4",
+    "react": "npm:react@16.8.6"
+  },
+  "dependencies": {
+    "npm:@jspm/core@1.0.4": {
+      "source": "https://registry.npmjs.org/@jspm/core/-/core-1.0.4.tgz#sha512-HoA6n4sjAEzU3BnGQpaTPXN0tFbzTe6sGHeuF4Yr9ULsheCwnHrBFOawqK4JDWxCEZQRyuqJv0tgNHTP5eLDMw=="
+    },
+    "npm:js-tokens@4.0.0": {
+      "source": "https://registry.npmjs.org/js-tokens/-/js-tokens-4.0.0.tgz#sha512-RdJUflcE3cUzKiMqQgsCu06FPu9UdIJO0beYbPhHN4k6apgJtifcoCtT9bcxOpYBtpD2kCM6Sbzg4CausW/PKQ=="
+    },
+    "npm:loose-envify@1.4.0": {
+      "source": "https://registry.npmjs.org/loose-envify/-/loose-envify-1.4.0.tgz#sha512-lyuxPGr/Wfhrlem2CL/UcnUc1zcqKAImBDzukY7Y5F/yQiNdko6+fRLevlw1HgMySw7f611UIY408EtxRSoK3Q==",
+      "resolve": {
+        "js-tokens": "npm:js-tokens@4.0.0"
+      }
+    },
+    "npm:object-assign@4.1.1": {
+      "source": "https://registry.npmjs.org/object-assign/-/object-assign-4.1.1.tgz#2109adc7965887cfc05cbbd442cac8bfbb360863"
+    },
+    "npm:prop-types@15.7.2": {
+      "source": "https://registry.npmjs.org/prop-types/-/prop-types-15.7.2.tgz#sha512-8QQikdH7//R2vurIJSutZ1smHYTcLpRWEOlHnzcWHmBYrOGUysKwSsrC89BCiFj3CbrfJ/nXFdJepOVrY1GCHQ==",
+      "resolve": {
+        "loose-envify": "npm:loose-envify@1.4.0",
+        "object-assign": "npm:object-assign@4.1.1",
+        "react-is": "npm:react-is@16.8.6"
+      }
+    },
+    "npm:react-is@16.8.6": {
+      "source": "https://registry.npmjs.org/react-is/-/react-is-16.8.6.tgz#sha512-aUk3bHfZ2bRSVFFbbeVS4i+lNPZr3/WM5jT2J5omUVV1zzcs1nAaf3l51ctA5FFvCRbhrH0bdAsRRQddFJZPtA=="
+    },
+    "npm:react@16.8.6": {
+      "source": "https://registry.npmjs.org/react/-/react-16.8.6.tgz#sha512-pC0uMkhLaHm11ZSJULfOBqV4tIZkx87ZLvbbQYunNixAAvjnC+snJCg0XQXn9VIsttVsbZP/H/ewzgsd5fxKXw==",
+      "resolve": {
+        "loose-envify": "npm:loose-envify@1.4.0",
+        "object-assign": "npm:object-assign@4.1.1",
+        "prop-types": "npm:prop-types@15.7.2",
+        "scheduler": "npm:scheduler@0.13.6"
+      }
+    },
+    "npm:scheduler@0.13.6": {
+      "source": "https://registry.npmjs.org/scheduler/-/scheduler-0.13.6.tgz#sha512-IWnObHt413ucAYKsD9J1QShUKkbKLQQHdxRyw73sw4FN26iWr3DY/H34xGPe4nmL1DwXyWmSWmMrA9TfQbE/XQ==",
+      "resolve": {
+        "loose-envify": "npm:loose-envify@1.4.0",
+        "object-assign": "npm:object-assign@4.1.1"
+      }
+    }
+  }
+}

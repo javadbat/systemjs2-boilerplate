@@ -1,0 +1,18 @@
+{
+  "name": "systemjs2",
+  "version": "1.0.0",
+  "license": "ISC",
+  "description": "systemjs2 react Application",
+  "scripts": {
+    "serve": "node ./Server/bootstrap.js"
+  },
+  "dependencies": {
+    "express": "^4.16.4",
+    "react": "^16.8.6",
+    "serve-static": "^1.13.2"
+  },
+  "devDependencies": {
+    "@jspm/core": "^1.0.4"
+  },
+  "type": "module"
+}
