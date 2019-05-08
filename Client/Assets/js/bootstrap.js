@@ -1,6 +1,7 @@
 class bootstrap{
     constructor(){
         this.initMapper().then(()=>{
+            debugger;
             this.lunchApp();
         })
     }

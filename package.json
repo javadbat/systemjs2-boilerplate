@@ -6,6 +6,7 @@
   "scripts": {
     "serve": "node ./Server/bootstrap.js"
   },
+  "jspm": {},
   "dependencies": {
     "express": "^4.16.4",
     "react": "^16.8.6",
